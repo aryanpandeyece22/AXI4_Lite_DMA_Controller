@@ -1,0 +1,17 @@
+# Simulation & build outputs
+*.vcd
+*.vvp
+sim.out
+*.log
+
+# Vivado / tool junk
+*.jou
+*.wdb
+*.xpr
+*.str
+*.dmp
+*.cache/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.Xil/
