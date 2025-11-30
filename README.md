@@ -8,7 +8,7 @@ This repository implements the **I-CHIP PS-1 (Udyam 2025) DMA Controller**, desi
 - Operate autonomously once triggered by software
 - Generate a `done` signal upon transfer completion
 
-The design supports **unaligned source/destination addresses**, proper `WSTRB` generation, and AXI-Lite compliant handshaking.
+The design supports **aligned source/destination addresses**, proper `WSTRB` generation, and AXI-Lite compliant handshaking.
 
 ---
 
