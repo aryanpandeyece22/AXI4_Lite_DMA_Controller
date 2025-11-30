@@ -28,6 +28,9 @@ The design supports **aligned source/destination addresses**, proper `WSTRB` gen
 
 ## 🧠 Design Overview
 
+<img width="1864" height="903" alt="image" src="https://github.com/user-attachments/assets/c4936527-603b-4894-91fb-2eb36a15c274" />
+
+
 ### 1. Read Path
 - DMA generates read addresses using AR channel  
 - Accepts data via R channel  
